@@ -1,0 +1,20 @@
+PODS:
+  - EasyTipView (2.0.4)
+  - razorpay-pod (1.1.4)
+
+DEPENDENCIES:
+  - EasyTipView
+  - razorpay-pod (~> 1.1.1)
+
+SPEC REPOS:
+  trunk:
+    - EasyTipView
+    - razorpay-pod
+
+SPEC CHECKSUMS:
+  EasyTipView: 4f8beae0a82db2ca4a9b5fd658785fc5f61d296b
+  razorpay-pod: 592624080178be4c6121216508e7857fc245f4b8
+
+PODFILE CHECKSUM: 572d72fb5547e8cb0ce5d600f0376f441224e952
+
+COCOAPODS: 1.8.4

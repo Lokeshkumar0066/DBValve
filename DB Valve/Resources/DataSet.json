@@ -1,0 +1,243 @@
+[
+{
+    "name" : "Thermostatic Valves",
+    "images" : "thermostaticvalves",
+    "child" : [
+                 {
+                    "name" : "Panel Series",
+                    "images" : "panelseries",
+                    "url" : "http://www.dbvalves.com/penal-series-mobile.html"
+                 },
+
+                 {
+                    "name" : "Push Button Series",
+                    "images": "pushbutton",
+                    "url" : "http://www.dbvalves.com/push-button-series-mobile.html"
+                 },
+
+                 {
+                    "name" : "3 Handle Series",
+                    "images" : "threehandleseries",
+                    "url" : "http://www.dbvalves.com/three-handle-series-mobile.html"
+
+                 },
+
+                 {
+                    "name" : "2 Handle Series",
+                    "images" : "twohandleseries",
+                    "url" : "http://www.dbvalves.com/two-handle-series-mobile.html"
+                 }
+             ]    
+},
+
+{
+    "name" : "Thermostatic Mixer",
+    "images" : "thermostaticmixer",
+    "child" : [
+                { 
+                  "name" : "Thermostatic Temperature",
+                  "images" : "thermostatictemperaturecontrol",
+                  "url" : "http://www.dbvalves.com/thermostatic-automatic-control-mobile.html"
+                },
+
+                {
+                   "name" : "Regular Wall Mixer",
+                   "images" : "regularwallmixer",
+                   "url" : "http://www.dbvalves.com/regular-wall-mixer-mobile.html"
+                }
+             ]
+    
+},
+
+{
+    "name" : "Led Wall Mixer",
+    "images" : "ledwallmixer",
+    "url" : "http://www.dbvalves.com/temperature-display-digital-led-wall-mixer-mobile.html"
+},
+
+{
+    "name" : "Basin Faucets",
+    "images" : "basinfaucets",
+    "child" : [
+                {
+                  "name" : "Foam Flow Series",
+                  "images" : "foamflowseries",
+                  "url" : "http://www.dbvalves.com/foam-flow-mobile.html"
+                },
+
+                {
+                  "name" : "Water Fall Series",
+                  "images" : "waterfallseries",
+                  "url" : "http://www.dbvalves.com/water-fall-series-mobile.html"
+                },
+
+                {
+                    "name" : "Glass Series",
+                    "images" : "glassseries",
+                    "url" : "http://www.dbvalves.com/glass-series-mobile.html"
+                },
+
+                {
+                    "name" : "Led Series",
+                    "images" : "ledseries",
+                    "url" : "http://www.dbvalves.com/led-series-mobile.html"
+                },
+
+                {
+                    "name" : "Sus 304 Series",
+                    "images" : "sus304series",
+                    "url" : "http://www.dbvalves.com/sun-304-series-mobile.html"
+                }
+              ]
+},
+
+{
+    "name" : "Kitchen Faucets",
+    "images" : "kitchenfaucets",
+    "child" : [
+               {
+                 "name" : "Brass Series",
+                 "images" : "brassseries",
+                 "url" : "http://www.dbvalves.com/brass-series-mobile.html"
+               },
+
+               {
+                 "name" : "Sus 304 Series",
+                 "images" : "susthreezerofourkitchenfaucetsseries",
+                 "url" : "http://www.dbvalves.com/sun-304-series-kitchen-faucet-mobile.html"
+               }
+              ]
+},
+
+{
+    "name" : "Sensor Faucets",
+    "images" : "sensorfaucets",
+    "child" : [
+                {
+                  "name" : "Basin Sensor Faucets",
+                  "images" : "basinsensorfaucets",
+                  "url" : "http://www.dbvalves.com/basin-sensor-faucets-mobile.html"
+                },
+
+                {
+                  "name" : "Urinal Sensor",
+                  "images" :"urinalsensor",
+                  "url" : "http://www.dbvalves.com/urinal-sensor-mobile.html"
+                }
+              ]
+},
+
+{
+    "name" : "Hand Dryers",
+    "images" : "handdryer",
+    "url" : "http://www.dbvalves.com/hand-drayers-mobile.html"
+},
+
+{
+    "name" : "Ceiling Shower",
+    "images" : "ceilingshower",
+    "child" : [
+                {
+                  "name" : "4 Functional Led",
+                  "images" : "fourfunctionalled",
+                  "url" : "http://www.dbvalves.com/4-functional-led-mobile.html"
+                },
+
+                {
+                  "name" : "3 Functional Led",
+                  "images" : "threefunctionalled",
+                  "url" : "http://www.dbvalves.com/3-functional-led-mobile.html"
+                },
+
+                {
+                  "name" : "3 Functional Non Led",
+                  "images" : "threefuntionalnonled",
+                  "url" : "http://www.dbvalves.com/3-functional-non-led-mobile.html"
+                },
+
+                {
+                  "name" : "2 Funtional Non Led",
+                  "images" :"twofunctionalnonled",
+                  "url" : "http://www.dbvalves.com/2-functional-non-led-mobile.html"
+                }
+              ]
+},
+
+{
+    "name" : "Classical Shower",
+    "images" : "classicalshower",
+    "url" : "http://www.dbvalves.com/classical-rain-shower-series-mobile.html"
+},
+
+{
+    "name" : "Body Jet",
+    "images" : "bodyjet",
+    "url" : "http://www.dbvalves.com/body-jet-massage-shower-mobile.html"
+},
+
+{
+    "name" : "Shower Rods",
+    "images" : "showerrod",
+    "url" : "http://www.dbvalves.com/luxury-shower-rods-collection-mobile.html"
+},
+
+{
+    "name" : "Spouts",
+    "images" : "spouts",
+    "url" : "http://www.dbvalves.com/spout-series-mobile.html"
+},
+
+{
+    "name" : "Hand Shower",
+    "images" : "handshower",
+    "url" : "http://www.dbvalves.com/hand-showers-mobile.html"
+},
+
+{
+    "name" : "Toilet Sprays",
+    "images" : "toiletspray",
+    "child" : [
+                {
+                  "name" : "Brass",
+                  "images" : "brasstoilet",
+                  "url" : "http://www.dbvalves.com/brass-mobile.html"
+                },
+
+                {
+                  "name" : "ABS",
+                  "images" : "abs",
+                  "url" : "http://www.dbvalves.com/abs-mobile.html"
+                }
+              ]
+},
+
+{
+     "name" : "Forged Brass Valves",
+     "images" : "forgedBrassValves",
+     "child" : [
+                 {
+                   "name" : "D&B Series",
+                   "images" :"bnbseries",
+                   "url" : "http://www.dbvalves.com/db-series-mobile.html"
+                 },
+
+                 {
+                    "name" : "Redbird Series",
+                    "images" : "redbirdseries",
+                    "url" : "http://www.dbvalves.com/redbird-series-mobile.html"
+                 },
+
+                 {
+                     "name" : "Sysflo Series",
+                     "images" : "sysfloseries",
+                     "url" : "http://www.dbvalves.com/sysflo-series-mobile.html"
+                 }
+               ] 
+},
+
+{
+    "name" : "Allied",
+    "images" : "allied",
+    "url" : "http://www.dbvalves.com/allied-mobile.html"
+}
+]
